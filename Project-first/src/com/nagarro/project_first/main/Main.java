@@ -13,10 +13,10 @@ public class Main {
 		Scanner scanner =new Scanner(System.in);
 		
 		try {
-			System.out.println("Enter Item name");
+			//System.out.println("Enter Item name");
 			String itemName =scanner.next();
 
-			System.out.println("Enter Item Price");
+			//System.out.println("Enter Item Price");
 			double price =scanner.nextDouble();
 
 			System.out.println("Enter Item quantity");
